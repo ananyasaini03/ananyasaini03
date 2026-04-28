@@ -28,15 +28,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=First-Year+CSE+(Data+Science)+Student;Building+AI+for+Real-World+Impact;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;India+AI+Impact+Festival+2024+Top+40" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/YOURUSERNAME">
-    <img src="https://img.shields.io/github/followers/YOURUSERNAME?style=for-the-badge&color=0e75b6&labelColor=1f1f1f" />
-  </a>
-  <a href="https://linkedin.com/in/YOURLINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOURMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
