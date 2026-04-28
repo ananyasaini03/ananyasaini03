@@ -39,7 +39,7 @@ Recognized at **India AI Impact Festival 2024 (Top 40)**
 
 ---
 
-# 👋 Hi, I'm Ananya Saini
+# 👋 Hi, I'm Ananya 
 
 ### First-Year CSE (Data Science) Student | AI & ML Explorer | Builder
 
@@ -61,9 +61,10 @@ Recognized at **India AI Impact Festival 2024 (Top 40)**
 - AI Model Development  
 - Computer Vision  
 - Deep Learning  
-- Open Source  
+- Open Source
+- Ongoing Projects
 
-🤝 Open to collaborations on impactful AI projects.
+🤝 Open to collaborations on impactful AI projects and ready to learn new things.
 
 📫 Reach me at: ananyasaini032008@gmail.com
 🔗 LinkedIn: linkedin.com/in/ananya-saini-788949333
