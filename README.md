@@ -1,26 +1,3 @@
-# 👋 Hi, I'm Ananya Saini
-
-### First-Year CSE (Data Science) Student | AI & ML Explorer | Builder
-
-🧠 Passionate about Machine Learning, Deep Learning, and Computer Vision.  
-
-🌍 Built AI projects focused on:
-- Forest environmental monitoring 🌲
-- AI privacy & voice assistant risk detection 🔐
-
-🏆 India AI Impact Festival 2024 – Top 40 Team  
-
-🚀 Currently exploring:
-- AI Model Development  
-- Computer Vision  
-- Deep Learning  
-- Open Source  
-
-🤝 Open to collaborations on impactful AI projects.
-
-📫 Reach me at: ananyasaini032008@gmail.com
-🔗 LinkedIn: linkedin.com/in/ananya-saini-788949333
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Ananya%20Saini&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20•%20Data%20Science%20•%20Machine%20Learning&descAlignY=62&descSize=18" />
@@ -51,16 +28,6 @@ Recognized at **India AI Impact Festival 2024 (Top 40 Team)**
 
 <div align="center">
 
-### ✧ Tech Palette ✧
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,git,github,vscode&theme=dark" />
-
-</div>
-
----
-
-<div align="center">
-
 ### ✧ Current Focus ✧
 
 🌱 Forest Vision — AI for environmental monitoring  
@@ -72,33 +39,26 @@ Recognized at **India AI Impact Festival 2024 (Top 40 Team)**
 
 ---
 
-<div align="center">
+# 👋 Hi, I'm Ananya Saini
 
-### ✧ Connect ✧
+### First-Year CSE (Data Science) Student | AI & ML Explorer | Builder
 
-<a href="https://linkedin.com/in/YOURLINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-EAEAEA?style=for-the-badge&logo=linkedin&logoColor=black" />
-</a>
-<a href="mailto:YOURMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Email-F8F8F8?style=for-the-badge&logo=gmail&logoColor=black" />
-</a>
+🧠 Passionate about Machine Learning, Deep Learning, and Computer Vision.  
 
-</div>
+🌍 Built AI projects focused on:
+- Forest environmental monitoring 🌲
+- AI privacy & voice assistant risk detection 🔐
 
----
+🏆 India AI Impact Festival 2024 – Top 40 Team  
 
-<div align="center">
+🚀 Currently exploring:
+- AI Model Development  
+- Computer Vision  
+- Deep Learning  
+- Open Source  
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=8b949e" height="170"/>
+🤝 Open to collaborations on impactful AI projects.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9" height="170"/>
+📫 Reach me at: ananyasaini032008@gmail.com
+🔗 LinkedIn: linkedin.com/in/ananya-saini-788949333
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=flat-square&color=bluegrey" />
-
-</div>
