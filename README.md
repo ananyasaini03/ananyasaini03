@@ -20,7 +20,7 @@
 Focused on designing meaningful AI solutions in  
 **Environmental Intelligence • Privacy Protection • Deep Learning**
 
-Recognized at **India AI Impact Festival 2024 (Top 40 Team)**
+Recognized at **India AI Impact Festival 2024 (Top 40)**
 
 </div>
 
@@ -46,10 +46,16 @@ Recognized at **India AI Impact Festival 2024 (Top 40 Team)**
 🧠 Passionate about Machine Learning, Deep Learning, and Computer Vision.  
 
 🌍 Built AI projects focused on:
-- Forest environmental monitoring 🌲
-- AI privacy & voice assistant risk detection 🔐
 
-🏆 India AI Impact Festival 2024 – Top 40 Team  
+- **Forest Vision** 🌲  
+  AI-based environmental monitoring system recognized at the India AI Impact Festival 2024 as one of the Top 40 winning teams across India. Received strategic guidance from Intel to support future development and scalability.  
+  🔗 Prototype: [Forest Vision] https://teachablemachine.withgoogle.com/models/tXfpcCCol/
+
+- **Hidden Risks of AI** 🔐  
+  Privacy-focused AI project addressing risks from voice assistants capturing sensitive conversations. Received recognition and strategic guidance from IBM, with discussions indicating potential future funding opportunities.  
+  🔗 Prototype: [Hidden Risks of AI] https://teachablemachine.withgoogle.com/models/UFOU3QlGK/
+
+🏆 India AI Impact Festival 2024 – Top 40   
 
 🚀 Currently exploring:
 - AI Model Development  
