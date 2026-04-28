@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Ananya Saini
 
-<!--
-**ananyasaini03/ananyasaini03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### First-Year CSE (Data Science) Student | AI & ML Explorer | Builder
 
-Here are some ideas to get you started:
+🧠 Passionate about Machine Learning, Deep Learning, and Computer Vision.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Built AI projects focused on:
+- Forest environmental monitoring 🌲
+- AI privacy & voice assistant risk detection 🔐
+
+🏆 India AI Impact Festival 2024 – Top 40 Team  
+
+🚀 Currently exploring:
+- AI Model Development  
+- Computer Vision  
+- Deep Learning  
+- Open Source  
+
+🤝 Open to collaborations on impactful AI projects.
+
+📫 Reach me at: ananyasaini032008@gmail.com
+🔗 LinkedIn: linkedin.com/in/ananya-saini-788949333
